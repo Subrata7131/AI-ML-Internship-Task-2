@@ -1,4 +1,4 @@
-# AI & ML Internship Task 1
+# AI & ML Internship Task 2
 
 ## Topic
 Understanding Dataset & Data Types
